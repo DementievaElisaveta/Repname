@@ -315,3 +315,4 @@ void conclusion(double a, double b, double c, double xg, double xm, double xs, d
 	cout << "y=" << yg << char(248) << ym << "\'" << ys << "\"" << endl;
 	cout << "z=" << zg << char(248) << zs << "\'" << zm << "\"" << endl;
 }
+//eyee54yhe
